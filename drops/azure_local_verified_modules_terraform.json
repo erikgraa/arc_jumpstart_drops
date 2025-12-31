@@ -25,7 +25,6 @@
   "Topics": [
     "Arc-enabled servers",    
     "Azure Arc",
-    "IaC",
-    "Security"
+    "IaC"
   ]
 }
