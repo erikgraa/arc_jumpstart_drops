@@ -1708,6 +1708,36 @@
     ]
   },
   {
+    "Title": "Building infrastructure on Azure Local with Azure Verified Modules for Terraform",
+    "Summary": "This Jumpstart Drop provides an example of building infrastructure and deploying workloads on Azure Local with Azure Verified Modules for Terraform.",
+    "Description": "This Jumpstart Drop for Azure Local provides an example of building infrastructure with IaC in the form of Terraform.",
+    "Cover": "",
+    "Authors": [
+      {
+        "Name": "Erik Grina Raassum",
+        "Link": "https://www.linkedin.com/in/erikgraa"
+      }
+    ],
+    "Source": "https://github.com/erikgraa/azure-local-terraform-avm",
+    "Type": "script_automation",
+    "Difficulty": "Medium",
+    "ProgrammingLanguage": [
+      "Terraform"
+    ],
+    "Products": [
+      "Arc-enabled servers",
+      "Azure Arc",
+      "Azure Local"
+    ],
+    "LastModified": "2025-12-31T15:21:40.123Z",
+    "CreatedDate": "2025-12-31T15:21:40.123Z",
+    "Topics": [
+      "Arc-enabled servers",
+      "Azure Arc",
+      "IaC"
+    ]
+  },
+  {
     "Title": "\"Cerebral\": An AI-Driven Assistant for Industrial Efficiency",
     "Summary": "This Jumpstart Drop provides an intelligent assistant for real-time troubleshooting and data analysis in hybrid and edge environments, offering a unified platform for consistent management and issue resolution.",
     "Description": "This Jumpstart Drop introduces Cerebral, an intelligent assistant designed to enhance operational efficiency by providing real-time troubleshooting and data analysis capabilities. Built to support hybrid, multi-cloud, and edge deployments, Cerebral ensures consistent and reliable management across diverse environments. By leveraging Azure's advanced AI and edge computing tools, this solution delivers a unified platform where users can interact using natural language to monitor, query, and resolve issues. The integration with Azure Monitor and other Azure services allows Cerebral to act as a powerful, flexible canvas for data analysis and visualization, offering an interactive and cohesive experience directly within the Azure portal.",
